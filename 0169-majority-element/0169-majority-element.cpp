@@ -11,7 +11,15 @@ public:
             else
                 cnt--;
         }
+        cnt = 0;
+        for(auto i : nums){
+            if(i == el)
+                cnt++;
+        }
 
-        return el;
+        if(cnt > nums.size()/2)
+            return el;
+        else
+            return -1;
     }
 };
