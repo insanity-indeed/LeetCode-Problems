@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
