@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxDifference(string s) {
         int arr[26] = {0} ;
-        int maxi = 0, mini = INT_MAX;
+        int maxi = 0, mini = s.size();
         for (int i = 0 ; i < s.size() ; i++) 
             arr[ s[i] - 'a']++;
         for (int i = 0 ; i < 26; i++) {
