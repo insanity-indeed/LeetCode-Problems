@@ -6,7 +6,7 @@ public:
     int n = nums.size();
     
     for (int i = 0; i < n - 2; i++) {
-        if (i > 0 && nums[i] == nums[i - 1]) continue; 
+        if (i > 0 && nums[i] == nums[i - 1]) continue;  // Skip duplicates
         
         int m = i + 1, e = n - 1;
         while (m < e) {
@@ -17,7 +17,9 @@ public:
                 str.insert(v);
                 m++;
                 e--;
+                // Skip duplicates for m
                 while (m < e && nums[m] == nums[m - 1]) m++;
+                // Skip duplicates for e
                 while (m < e && nums[e] == nums[e + 1]) e--;
             }
             else if (sum < 0) {
@@ -31,6 +33,7 @@ public:
     
     vector<vector<int>> v(str.begin(), str.end());
     return v;
+
 
     }
 };
