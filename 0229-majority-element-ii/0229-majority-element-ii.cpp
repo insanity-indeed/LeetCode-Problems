@@ -13,6 +13,8 @@ public:
             mpp[nums[i]]++;
             if(mpp[nums[i]] == minOcc)
                 res.push_back(nums[i]);
+            if(res.size()==2)   
+                break;
         }
         return res;
     
