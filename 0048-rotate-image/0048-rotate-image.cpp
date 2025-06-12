@@ -1,6 +1,10 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
+        /*
+        BRUTE FORCE Approach
+        Time Complexity : 2xO(m*n)
+        Space Complexity : O(m*n)  
         vector<int> temp;
         int row = matrix.size() , col = matrix[0].size();
         int trow = matrix.size() , tcol = matrix[0].size();
@@ -15,6 +19,18 @@ public:
                 matrix[i][j] = temp[s];
                 s++;
             }
-        }    
+        } 
+        */   
+       int n = matrix.size();
+       for(int i = 0; i < n; ++i){
+        for(int j = i + 1; j < n; ++j){
+            swap(matrix[i][j], matrix[j][i]);
+        }
+    }
+
+    // Reverse each row
+    for(int i = 0; i < n; ++i){
+        reverse(matrix[i].begin(), matrix[i].end());
+    }
     }
 };
