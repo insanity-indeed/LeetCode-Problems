@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
