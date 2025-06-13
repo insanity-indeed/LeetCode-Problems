@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
