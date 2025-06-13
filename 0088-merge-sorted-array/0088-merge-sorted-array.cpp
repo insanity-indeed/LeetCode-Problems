@@ -1,20 +1,44 @@
 class Solution {
+private:
+    void swapIfGreater(vector<int>& nums1, int ind1, vector<int>& nums2, int ind2) {
+        if (nums1[ind1] > nums2[ind2]) {
+            swap(nums1[ind1], nums2[ind2]);
+        }
+    }
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int left = m - 1, right = n - 1, mergeIdx = m + n - 1;
+        int len = m + n;
+        int gap = (len / 2) + (len % 2);
 
-        // Merge from the back
-        while (left >= 0 && right >= 0) {
-            if (nums1[left] > nums2[right]) {
-                nums1[mergeIdx--] = nums1[left--];
-            } else {
-                nums1[mergeIdx--] = nums2[right--];
+        while (gap > 0) {
+            int left = 0;
+            int right = left + gap;
+
+            while (right < len) {
+                if (left < m && right < m) {
+                    // both in nums1
+                    swapIfGreater(nums1, left, nums1, right);
+                }
+                else if (left < m && right >= m) {
+                    // left in nums1 and right in nums2
+                    swapIfGreater(nums1, left, nums2, right - m);
+                }
+                else {
+                    // both in nums2
+                    swapIfGreater(nums2, left - m, nums2, right - m);
+                }
+                left++;
+                right++;
             }
+
+            if (gap == 1) break;
+
+            gap = (gap / 2) + (gap % 2); // Correct gap update
         }
 
-        // If nums2 has remaining elements
-        while (right >= 0) {
-            nums1[mergeIdx--] = nums2[right--];
+        // Copy nums2 to nums1
+        for (int i = 0; i < n; i++) {
+            nums1[m + i] = nums2[i];
         }
-    }   
+    }
 };
