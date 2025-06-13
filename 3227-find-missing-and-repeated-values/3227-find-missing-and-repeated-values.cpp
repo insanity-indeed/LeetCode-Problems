@@ -3,27 +3,22 @@ public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         vector<int> ans;
         int n = grid.size();
-        vector<int> flat;
+        vector<int> flat(n*n,0);
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
-                flat.push_back(grid[i][j]);
+                flat[grid[i][j]-1]++;
             }
         }
 
-        sort(flat.begin(), flat.end());
-        int repeated = -1, missing = -1,sum = 0 , nos = n*n ;
-        int total = (nos*(nos+1)) / 2;
-
-        for(int i = 0; i < flat.size(); i++){
-            if(i > 0 && flat[i] == flat[i - 1]){
-                repeated = flat[i];
-            }
-            sum += flat[i];
+        int repeated = -1, missing = -1 ;
+        
+        for(int i = 0 ; i < flat.size(); i++){
+            if(flat[i]==0)
+                missing = i + 1;
+            else if(flat[i]==2)
+                repeated = i + 1;
         }
-        missing = total + repeated - sum;
-        // If missing not found in loop (case when last number is missing)
-        if(missing == -1) missing = n * n;
 
         ans.push_back(repeated);
         ans.push_back(missing);
