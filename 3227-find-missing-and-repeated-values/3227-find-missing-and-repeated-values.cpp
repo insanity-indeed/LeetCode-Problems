@@ -1,38 +1,33 @@
 class Solution {
 public:
-    int search(int el,vector<int>& temp){
-        int cnt = 0;
-        for(int i = 0 ; i < temp.size() ; i++){
-            if(temp[i]==el)
-                cnt++;
-        }
-        if(cnt == 2)    return el;
-        else            return -1;
-    } 
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         vector<int> ans;
-        vector<int> temp;
-        int cnt = 0;
-        sort(grid.begin(),grid.end());
-        int el = -1 ;
-        for(int i = 0 ; i < grid.size() ; i++){
-            for(int j = 0 ; j < grid[0].size(); j++){
-                temp.push_back(grid[i][j]);
-                cnt += grid[i][j];
+        int n = grid.size();
+        vector<int> flat;
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                flat.push_back(grid[i][j]);
             }
         }
-        for(int i = 0 ; i < temp.size() ; i++){
-            el = search(temp[i],temp);
-            if(el!=-1){
-                ans.push_back(el);
-                break;
+
+        sort(flat.begin(), flat.end());
+        int repeated = -1, missing = -1,sum = 0 , nos = n*n ;
+        int total = (nos*(nos+1)) / 2;
+
+        for(int i = 0; i < flat.size(); i++){
+            if(i > 0 && flat[i] == flat[i - 1]){
+                repeated = flat[i];
             }
+            sum += flat[i];
         }
-        int sum = 0;
-        for(int i = 1 ; i <= grid.size()*grid.size() ; i++){
-            sum += i;
-        }
-        ans.push_back(sum+el-cnt);
+        missing = total + repeated - sum;
+        // If missing not found in loop (case when last number is missing)
+        if(missing == -1) missing = n * n;
+
+        ans.push_back(repeated);
+        ans.push_back(missing);
+
         return ans;
     }
 };
