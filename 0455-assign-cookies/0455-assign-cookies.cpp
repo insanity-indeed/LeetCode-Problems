@@ -8,19 +8,11 @@ public:
         sort(s.begin(),s.end());
 
         while(left<g.size() && right<s.size()){
-            if(g[left]==s[right]){
+            if(g[left]<=s[right]){
                 ans++;
                 left++;
-                right++;
             }
-            else if(g[left]>s[right]){
-                right++;
-            }
-            else{
-                ans++;
-                left++;
-                right++;
-            }
+            right++;
         }
         return ans;
 
