@@ -9,9 +9,8 @@ public:
 
 
         while(left<g.size() && right<s.size()){
-            if(g[left] <=s [right])
+            if(s[right] >= g[left])
                 left++;
-    
             right++;
         }
         return left;
