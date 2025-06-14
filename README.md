@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
