@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2714-left-and-right-sum-differences](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
