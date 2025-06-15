@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1505-create-target-array-in-the-given-order](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0898-transpose-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
