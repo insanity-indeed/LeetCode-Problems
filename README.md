@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
