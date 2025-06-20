@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
