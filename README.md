@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
