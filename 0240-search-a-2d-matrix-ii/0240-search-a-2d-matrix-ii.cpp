@@ -15,7 +15,7 @@ public:
 
         for(int i = 0 ; i < rows ; i++){
             int index = binary_search(matrix[i].begin(),matrix[i].end(),target);
-            if(index  )
+            if(index)
                 return 1 ;
         }
         return 0 ;
