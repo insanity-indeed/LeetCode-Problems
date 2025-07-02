@@ -20,7 +20,7 @@ public:
             int mid = low + (high - low)/2;
             int day = daysNeed(weights,mid);
             if(day<=days){
-                ans = mid;
+
                 high = mid - 1 ; 
             }
 
@@ -29,6 +29,6 @@ public:
             else
                 high = mid - 1 ;
         }
-        return ans ;
+        return low ;
     }
 };
