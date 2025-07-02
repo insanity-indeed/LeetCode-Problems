@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        int missCount = 0;
+        /*int missCount = 0;
         int curr = 1;
         int i = 0;
 
@@ -14,7 +14,16 @@ public:
             }
             curr++;
         }
+        */
+        
 
-        return -1;     
+        for(int i = 0 ; i < arr.size() ; i++){
+            if(k>=arr[i])
+                k++;
+            else
+                return k;
+        }
+
+        return k;     
     }
 };
