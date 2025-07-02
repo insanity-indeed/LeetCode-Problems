@@ -13,13 +13,25 @@ public:
             }
         }*/
 
+        /*
         for(int i = 0 ; i < rows ; i++){
             int index = binary_search(matrix[i].begin(),matrix[i].end(),target);
             if(index)
                 return 1 ;
         }
         return 0 ;
-
+        */
+        int row = 0 , col = cols - 1 ;
+        while(row < rows && col>= 0){
+            if(matrix[row][col] == target)
+                return 1;
+            
+            if(matrix[row][col] > target)
+                col--;
+            else
+                row++;
+        }
+        return 0 ;
     }  
     
 };
