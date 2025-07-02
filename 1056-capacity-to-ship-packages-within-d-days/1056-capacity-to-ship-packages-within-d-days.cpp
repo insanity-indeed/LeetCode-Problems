@@ -19,10 +19,8 @@ public:
         while(low<=high){
             int mid = low + (high - low)/2;
             int day = daysNeed(weights,mid);
-            if(day<=days){
-
+            if(day<=days)
                 high = mid - 1 ; 
-            }
             else
                 low = mid + 1 ;
         }
