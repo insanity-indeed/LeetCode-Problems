@@ -4,8 +4,8 @@ public:
       
         int maxi = 0, mini = prices[0];
         for( int i = 1 ; i < prices.size() ; i++ ){
-            int cost = prices[i] - mini;
-            maxi = max(maxi,cost);
+            int curr = prices[i] - mini;
+            maxi = max(maxi,curr);
             mini = min(prices[i],mini);
         }
         return maxi;
