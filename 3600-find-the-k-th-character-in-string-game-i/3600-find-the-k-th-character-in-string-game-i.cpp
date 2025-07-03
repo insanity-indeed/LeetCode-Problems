@@ -3,16 +3,14 @@ public:
     char kthCharacter(int k) {
         string ans = "a";
         while(ans.length() < k){
-            string temp = "";
-            for(int j = 0 ; j < ans.length() ; j++){
+            int len = ans.length() ;
+            for(int j = 0 ; j < len ; j++){
                 if(ans[j] == 'z')
-                    temp += 'a' ;
+                    ans += 'a' ;
                 else{
-                    char a = ans[j] + 1;
-                    temp += a;
+                    ans += (ans[j]+1);
                 }
             }
-                ans += temp ;
         }
         return ans[k-1];    
     }
