@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1675-magnetic-force-between-two-balls](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
