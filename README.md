@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
