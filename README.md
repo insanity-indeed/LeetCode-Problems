@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
