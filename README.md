@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2294-minimum-time-to-complete-trips](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
