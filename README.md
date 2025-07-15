@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2294-minimum-time-to-complete-trips](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
