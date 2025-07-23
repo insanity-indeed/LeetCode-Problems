@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
