@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3396-valid-word) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
