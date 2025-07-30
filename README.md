@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2294-minimum-time-to-complete-trips](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3396-valid-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
