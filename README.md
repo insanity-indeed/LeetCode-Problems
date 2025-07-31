@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3379-score-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
