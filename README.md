@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
