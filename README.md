@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
