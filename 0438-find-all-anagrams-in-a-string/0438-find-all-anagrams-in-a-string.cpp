@@ -1,7 +1,14 @@
 class Solution {
 public:
+    bool checkFreq(vector<int>& freq){
+        for(int& i : freq){
+            if(i != 0)
+                return 0 ;
+        }
+        return 1 ;
+    }
     vector<int> findAnagrams(string s, string p) {
-        int freq[26] = {0};
+        /*int freq[26] = {0};
         vector<int> ans;
         int n = p.length();
 
@@ -32,6 +39,31 @@ public:
                 ans.push_back(i);
         }
 
-        return ans;
+        return ans;*/
+        
+        vector<int> freq(26,0) ;
+        
+        for(int i = 0 ; i < p.length() ; i++){
+            freq[p[i]-'a']++;
+        }
+
+        int i = 0 , j = 0 ; 
+        vector<int> ans ;
+
+        while(j<s.length()){
+            freq[s[j]-'a']--;
+
+            if(j - i + 1 ==p.length()){
+                if(checkFreq(freq))
+                    ans.push_back(i);
+                
+                freq[s[i]-'a']++;
+                i++;
+            }
+
+            j++;
+        }
+
+        return ans ;
     }
 };
