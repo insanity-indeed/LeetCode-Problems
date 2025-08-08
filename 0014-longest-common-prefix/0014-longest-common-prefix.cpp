@@ -19,7 +19,7 @@ public:
         int first = 0 ;
         int last = strs.size() - 1 ;
         sort(strs.begin() ,strs.end());
-        for(int i = 0 ; i < strs[0].length() ; i++){
+        for(int i = 0 ; i < strs[first].length() ; i++){
             if(strs[first][i] == strs[last][i])
                 ans += strs[first][i] ;
             else
