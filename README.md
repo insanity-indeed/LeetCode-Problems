@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
