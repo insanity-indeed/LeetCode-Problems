@@ -26,8 +26,8 @@ public:
 
             string str = "" ;
             for (int j = 0; j < 26; j++) {
-        str += to_string(temp[j]) + "#"; // store counts
-    }
+                str += to_string(temp[j]) + "#"; // store counts
+            }
 
             mpp[str].push_back(strs[i]);
         }
