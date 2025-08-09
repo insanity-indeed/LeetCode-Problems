@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Interactive
 |  |
