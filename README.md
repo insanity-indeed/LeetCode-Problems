@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3396-valid-word) |
