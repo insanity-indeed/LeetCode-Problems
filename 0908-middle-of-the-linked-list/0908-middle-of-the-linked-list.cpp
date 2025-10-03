@@ -27,8 +27,8 @@ public:
         ListNode* sol = head;
         int cnt = 0 ;
         while(sol){
-            if(cnt == k - 1 ) break;
             cnt++;
+            if(cnt == k  ) break;
             sol = sol -> next ;
         }
 
