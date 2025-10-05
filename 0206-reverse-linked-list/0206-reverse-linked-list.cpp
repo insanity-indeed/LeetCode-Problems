@@ -10,6 +10,14 @@
  */
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* temp , ListNode* prev){
+        if(temp == NULL)    return prev ;
+        ListNode* front = temp -> next ;
+        temp -> next = prev ;
+        prev = temp ;
+        temp = front;
+        return reverseLL(temp,prev);
+    }
     ListNode* reverseList(ListNode* head) {
         /*if(head == NULL)    return head ;
         vector<int> v ;
@@ -30,7 +38,7 @@ public:
         // Time Complexity -> O(3n)
         Space Complexity -> O(n)
         */
-        if(head == NULL)    return head ;
+        /*if(head == NULL)    return head ;
         ListNode* temp = head ;
         ListNode* prev = NULL ;
         while(temp != NULL){
@@ -39,6 +47,10 @@ public:
             prev = temp ;
             temp = front ;
         }
-        return prev ;
+        return prev ;*/
+        if(head == NULL)    return head ;
+        ListNode* temp = head , *prev = NULL ;
+       return reverseLL(temp,prev);
+        //return prev;
     }
 };
