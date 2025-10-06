@@ -19,7 +19,6 @@ public:
             temp -> next = newNode ;
             newNode -> next = front ;
             temp = front  ;
-
         }
         return head ;    
     }
