@@ -15,11 +15,10 @@ public:
         while(temp != NULL && temp -> next != NULL ){
             ListNode* front = temp -> next ;
             int num = gcd(temp -> val , front -> val); 
-          
             ListNode* newNode = new ListNode(num);
             temp -> next = newNode ;
             newNode -> next = front ;
-            temp = temp -> next -> next  ;
+            temp = front  ;
 
         }
         return head ;    
