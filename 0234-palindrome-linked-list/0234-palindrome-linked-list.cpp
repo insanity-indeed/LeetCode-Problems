@@ -47,7 +47,6 @@ public:
             temp1 = temp1 -> next ;
             temp2 = temp2 -> next ;
         }
-
         reverseList(slow -> next);
         return 1 ;
 
