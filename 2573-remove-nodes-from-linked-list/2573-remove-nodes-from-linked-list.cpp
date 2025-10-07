@@ -10,8 +10,17 @@
  */
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* head){
+        if(head == NULL || head -> next == NULL )
+            return head ;
+        ListNode* newHead = reverseLL(head -> next) ;
+        ListNode* front = head -> next ;
+        front -> next = head ;
+        head -> next = NULL ;
+        return newHead ;
+    }
     ListNode* removeNodes(ListNode* head) {
-        ListNode* temp = head ;
+        /*ListNode* temp = head ;
         stack<ListNode*> st;
         while(temp != NULL){
             st.push(temp);
@@ -34,6 +43,27 @@ public:
                 continue;
             }
         }
-        return newHead;
+        return newHead;*/
+        ListNode* newHead = reverseLL(head);
+        ListNode* temp = newHead ;
+        ListNode* prev = NULL ;
+        int maxNode = temp -> val ;
+        prev = temp ;
+        temp = temp -> next ;
+
+        while(temp != NULL){
+            if(temp -> val >= maxNode){
+                maxNode = temp -> val ;
+                prev = temp ;  
+            }
+            else{
+                prev -> next = temp -> next ;
+            }
+            
+            temp = temp -> next ;
+        }
+        newHead = reverseLL(newHead);
+        return newHead ;
+
     }
 };
