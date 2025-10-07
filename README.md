@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2573-remove-nodes-from-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [2573-remove-nodes-from-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Interactive
 |  |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [2573-remove-nodes-from-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -533,5 +536,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
