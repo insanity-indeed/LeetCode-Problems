@@ -48,7 +48,7 @@ public:
             temp2 = temp2 -> next ;
         }
 
-        newHead = reverseList(slow -> next);
+        reverseList(slow -> next);
         return 1 ;
 
     }
