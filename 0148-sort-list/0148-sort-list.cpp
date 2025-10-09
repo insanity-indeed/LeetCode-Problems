@@ -10,19 +10,49 @@
  */
 class Solution {
 public:
+    ListNode* sortedList(ListNode* left , ListNode* right){
+        ListNode* dummy = new ListNode(-1) ;
+        ListNode* temp = dummy;
+        while(left != NULL && right != NULL){
+            if(left -> val <= right -> val){
+                temp -> next = left ;
+                left = left -> next ;
+            }
+            else{
+                temp -> next = right ;
+                right = right -> next ;
+            }
+            temp = temp -> next ;
+        }
+        if(left != NULL){
+            temp -> next = left ;
+        }else{
+            temp -> next = right ;
+        }
+        return dummy -> next ;
+    }
+    ListNode* findMiddle(ListNode* head ){
+        ListNode* slow = head ;
+        ListNode* fast = head -> next ;
+        while(fast != NULL && fast -> next != NULL){
+            slow = slow -> next ;
+            fast = fast -> next -> next ;
+        }
+        return slow ;
+    }
     ListNode* sortList(ListNode* head) {
-        priority_queue<int, vector<int> , greater<int>> pq ;
-        ListNode* temp = head ;
-        while(temp){
-            pq.push(temp -> val);
-            temp = temp -> next ;
-        }
-        temp = head ;
-        while(temp){
-            temp -> val = pq.top();
-            pq.pop();
-            temp = temp -> next ;
-        }
-        return head ;
+        if( head == NULL || head -> next == NULL )
+            return head ;
+                
+        ListNode* mid = findMiddle(head);
+
+        ListNode* right = mid -> next ;
+        mid -> next = NULL ;
+        ListNode* left = head ;
+
+        left = sortList(left) ;
+        right = sortList(right);
+
+        return sortedList(left , right); 
     }
 };
