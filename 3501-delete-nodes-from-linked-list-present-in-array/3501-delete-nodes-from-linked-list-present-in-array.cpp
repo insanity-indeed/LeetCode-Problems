@@ -11,29 +11,18 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        set<int> s ;
-        for(int i = 0 ; i < nums.size() ; i++){
-            s.insert(nums[i]);
-        }
+        set<int> s(nums.begin() , nums.end()) ;
         ListNode* temp = head ;
-        ListNode* prev = NULL ;
+        ListNode* dummy = new ListNode(-1) ;
+        dummy -> next = head ;
+        ListNode* prev = dummy ;
         while(temp){
-            if(s.find(temp -> val) != s.end()){
-                if(prev == NULL){
-                    head = head -> next ;
-                    temp = head ;
-                }
-                else{
-                    prev -> next = temp -> next ;
-                    temp = temp -> next ;
-                }
-            }
-            else{
-
-            prev = temp ;
+            if(s.count(temp-> val))
+                prev -> next = temp -> next ;
+            else
+                prev = temp ;
             temp = temp -> next ;
-            }
         }
-        return head ;
+        return dummy -> next ;
     }
 };
