@@ -14,7 +14,7 @@ class Solution {
             else
                 st.push(c) ;
         }
-        if(!st.isEmpty())   return false ;
-        return true ;
+        //if(!st.isEmpty())   return false ;
+        return st.isEmpty() ;
     }
 }
