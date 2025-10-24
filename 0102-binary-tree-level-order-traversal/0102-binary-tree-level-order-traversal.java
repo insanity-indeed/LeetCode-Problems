@@ -29,7 +29,8 @@ class Solution {
             for(int i = 0 ; i < size ; i++){
                 if(q.peek().left != null) q.offer(q.peek().left);
                 if(q.peek().right != null) q.offer(q.peek().right);
-                level.add(q.poll().val);
+                level.add(q.peek().val);
+                q.poll() ;
             }
             wrap.add(level) ;
         }   
