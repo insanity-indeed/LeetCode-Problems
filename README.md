@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0263-ugly-number) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0204-count-primes) |
 | [3221-find-the-peaks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 ## Recursion
 |  |
