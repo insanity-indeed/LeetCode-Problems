@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
