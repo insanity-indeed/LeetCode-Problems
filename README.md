@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2047-find-a-peak-element-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
 |  |
