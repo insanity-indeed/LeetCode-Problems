@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
 | ------- |
