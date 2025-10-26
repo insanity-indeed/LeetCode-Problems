@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
