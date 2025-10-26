@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
 | ------- |
