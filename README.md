@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
