@@ -9,12 +9,13 @@ class Solution {
             if(nums[i] == 0){
                 zeroes++ ;
             }
-            while(zeroes > k){
-                if(nums[left] == 0) zeroes-- ;
+            if(zeroes > k){
+                if( nums[left] == 0)
+                    zeroes-- ;
                 left++ ;
             } 
-            
-            maxLen = Math.max(maxLen , i - left + 1);
+            if(zeroes <= k)
+                maxLen = Math.max(maxLen , i - left + 1);
         }   
         return maxLen ;
     }
