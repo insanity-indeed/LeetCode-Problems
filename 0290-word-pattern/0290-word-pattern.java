@@ -9,11 +9,10 @@ class Solution {
             if(mpp.containsKey(pattern.charAt(i))){
                 if(!mpp.get(pattern.charAt(i)).equals(parts[i]))    return false ;
             }
-            else if(mpp.containsValue(parts[i])){
-                if(!mpp.containsKey(pattern.charAt(i)))  return false;
-            }
-            else
+            else{
+                if(mpp.containsValue(parts[i]))  return false;
                 mpp.put(pattern.charAt(i),parts[i]);
+            }
         }
 
         return true ;
