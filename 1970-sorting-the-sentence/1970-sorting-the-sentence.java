@@ -9,13 +9,13 @@ class Solution {
             int num = str.charAt(len) - '0';
             ans[num - 1] = str.substring(0,len );
         }
-        String res = ans[0] ;
-        for(int i = 1 ; i < n ; i++){
-            String str = ans[i] ;
-            res += " " ;
-            res += str ;
-        }
+        // String res = ans[0] ;
+        // for(int i = 1 ; i < n ; i++){
+        //     String str = ans[i] ;
+        //     res += " " ;
+        //     res += str ;
+        // }
         
-        return res;
+        return String.join(" ",ans);
     }
 }
