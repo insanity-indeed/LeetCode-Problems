@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
