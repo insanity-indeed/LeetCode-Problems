@@ -1,25 +1,22 @@
 class Solution {
-    public int findOnes(String str){
-        int cnt = 0 ;
-        for(int i = 0 ; i < str.length() ; i++){
-            if(str.charAt(i) == '1')    cnt++ ;
-        }
-        return cnt ;
-    }
     public int numberOfBeams(String[] bank) {
-        int len = bank.length ;
-        int[] check = new int[len] ;
-        for(int i = 0 ; i < len ; i++) {
-            check[i] = findOnes(bank[i]);   
-        }
-        int prev = check[0] ;
+        int prev = 0 ;
         int ans = 0 ;
-        for(int i = 1 ; i < len ; i++){
-            if(check[i] > 0){
-                ans += check[i] * prev ;
-                prev = check[i] ;
+
+        for(int i = 0 ; i < bank.length ; i++){
+            int cnt = 0 ;
+
+            for(int j = 0 ; j < bank[i].length() ; j++){
+                if(bank[i].charAt(j) == '1')    cnt++ ;
             }
+
+            if(cnt > 0){
+                ans += prev * cnt ;
+                prev = cnt ;
+            }
+
         }
-        return ans;
+
+        return ans ;
     }
 }
