@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1675-magnetic-force-between-two-balls](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1970-sorting-the-sentence](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
