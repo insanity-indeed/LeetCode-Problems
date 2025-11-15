@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
