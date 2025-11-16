@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2401-count-asterisks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
