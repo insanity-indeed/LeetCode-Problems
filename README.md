@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2887-sort-vowels-in-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3396-valid-word) |
