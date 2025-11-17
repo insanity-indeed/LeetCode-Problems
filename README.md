@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1806-count-of-matches-in-tournament](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
