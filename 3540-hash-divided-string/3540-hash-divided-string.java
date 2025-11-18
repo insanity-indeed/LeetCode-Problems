@@ -6,7 +6,7 @@ class Solution {
         for(int i = 0 ; i < s.length() ; i++){
             cnt++ ;
             sum += s.charAt(i) - 'a' ; 
-            if(cnt == k){
+            if((i+1)%k == 0){
                 char ch = 'a' ;
                 ch += (sum % 26) ;
                 sb.append(ch) ;
