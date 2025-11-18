@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2502-sort-the-people](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2502-sort-the-people](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/3379-score-of-a-string) |
