@@ -44,7 +44,7 @@ class Solution {
                 temp = temp.next ;
             }
             
-            if(prev != null)
+            //if(prev != null)
                 prev.next = null ;
         }
 
