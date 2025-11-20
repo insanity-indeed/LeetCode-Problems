@@ -40,12 +40,11 @@ class Solution {
             while(len != 0){
                 len-- ;
                 prev = temp ;
-                if(temp == null)    break;
+                //if(temp == null)    break;
                 temp = temp.next ;
             }
             
-            //if(prev != null)
-                prev.next = null ;
+            prev.next = null ;
         }
 
         return ans ;    
