@@ -28,19 +28,16 @@ class Solution {
         while(temp != null){
 
             ans[index++] = temp ;
-            int len = 0 ;
+            int len = cnt / k ;
+
             if(cnt % k != 0){
-                len = cnt / k  + 1 ;
+                len++;
                 cnt-- ;
             }
-            else{
-                len = cnt / k;
-            }
-
+            
             while(len != 0){
                 len-- ;
                 prev = temp ;
-                //if(temp == null)    break;
                 temp = temp.next ;
             }
             
