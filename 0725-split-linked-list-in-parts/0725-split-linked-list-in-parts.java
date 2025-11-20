@@ -22,26 +22,27 @@ class Solution {
         }
 
         ListNode prev = head ;
-        ans[0] = head ;
+        int len = cnt / k ;
+        int extra = cnt % k ;
         temp = head ;
 
-        while(temp != null){
+        while(temp != null && index < k){
 
             ans[index++] = temp ;
-            int len = cnt / k ;
-
-            if(cnt % k != 0){
-                len++;
-                cnt-- ;
+            int t = len ;
+            
+            if(extra != 0){
+                t++ ;
+                extra-- ;
             }
             
-            while(len != 0){
-                len-- ;
+            for(int i = 0 ; i < t ; i++){
                 prev = temp ;
                 temp = temp.next ;
             }
-            
-            prev.next = null ;
+
+            if (prev != null)
+                prev.next = null ;
         }
 
         return ans ;    
