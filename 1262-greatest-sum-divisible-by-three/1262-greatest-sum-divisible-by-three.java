@@ -1,6 +1,6 @@
 class Solution {
     public int maxSumDivThree(int[] nums) {
-        
+        Arrays.sort(nums) ;
         int sum = 0 ;
         int rem1 = 999999999;
         int rem2 = 999999999;
