@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
