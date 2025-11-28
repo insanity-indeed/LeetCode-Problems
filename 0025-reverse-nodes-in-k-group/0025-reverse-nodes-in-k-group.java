@@ -42,7 +42,7 @@ class Solution {
             nextNode = kNode.next ;
             kNode.next = null ;
 
-            ListNode newHead = reverse(temp);
+            kNode = reverse(temp);
 
             if(temp == head){
                 head = kNode ;
