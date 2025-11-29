@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1472-design-browser-history](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1472-design-browser-history) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1472-design-browser-history) |
 | [1552-build-an-array-with-stack-operations](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1472-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1472-design-browser-history) |
 | [2169-simple-bank-system](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
@@ -789,4 +793,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
