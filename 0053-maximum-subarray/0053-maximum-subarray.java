@@ -1,12 +1,14 @@
 class Solution {
     public int maxSubArray(int[] nums) {
         int sum = 0 ;
-        int maxSum = -900000 ;
-        for(int i = 0 ; i < nums.length ; i++){
-            sum += nums[i] ;
-            maxSum = Math.max(maxSum,sum); 
-            if(sum < 0) sum = 0 ;
-        }   
+        int maxSum = -99999 ;
+        for(int num : nums){
+            if(sum < 0){
+                sum = 0 ;
+            }
+            sum += num ;
+            maxSum = Math.max(maxSum , sum) ;
+        }
         return maxSum ;
     }
 }
