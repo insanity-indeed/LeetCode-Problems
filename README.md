@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/insanity-indeed/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
